@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain"
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain/request"
-	"github.com/nadiannis/evento-api-fr-auth/internal/usecase"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain/request"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/usecase"
 )
 
 var ticketTypeInputs = []*request.TicketTypeRequest{

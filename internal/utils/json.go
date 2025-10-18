@@ -7,7 +7,7 @@ import (
 	"io"
 
 	"github.com/gin-gonic/gin"
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain/response"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain/response"
 )
 
 func ReadJSON(c *gin.Context, dst any) error {

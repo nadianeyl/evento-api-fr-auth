@@ -6,12 +6,12 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/nadiannis/evento-api-fr-auth/internal/config"
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain"
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain/request"
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain/response"
-	"github.com/nadiannis/evento-api-fr-auth/internal/repository"
-	"github.com/nadiannis/evento-api-fr-auth/internal/utils"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/config"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain/request"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain/response"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/repository"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/utils"
 )
 
 type CustomerUsecase struct {

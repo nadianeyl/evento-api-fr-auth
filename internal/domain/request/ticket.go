@@ -1,6 +1,6 @@
 package request
 
-import "github.com/nadiannis/evento-api-fr-auth/internal/domain"
+import "github.com/nadianeyl/evento-api-fr-auth/internal/domain"
 
 type TicketRequest struct {
 	EventID  int64                 `json:"event_id"`

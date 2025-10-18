@@ -5,10 +5,10 @@ import (
 	"flag"
 
 	_ "github.com/jackc/pgx/v5/stdlib"
-	"github.com/nadiannis/evento-api-fr-auth/internal/config"
-	"github.com/nadiannis/evento-api-fr-auth/internal/handler"
-	"github.com/nadiannis/evento-api-fr-auth/internal/repository"
-	"github.com/nadiannis/evento-api-fr-auth/internal/usecase"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/config"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/handler"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/repository"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/usecase"
 	"github.com/rs/zerolog/log"
 )
 

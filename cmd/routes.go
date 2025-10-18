@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/nadiannis/evento-api-fr-auth/internal/utils"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/utils"
 )
 
 func (app *application) routes() *gin.Engine {

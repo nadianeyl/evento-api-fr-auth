@@ -1,9 +1,9 @@
 package usecase
 
 import (
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain"
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain/request"
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain/response"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain/request"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain/response"
 )
 
 type CustomerReader interface {

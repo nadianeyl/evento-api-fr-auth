@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain"
-	"github.com/nadiannis/evento-api-fr-auth/internal/utils"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/utils"
 )
 
 type TicketTypeRepository struct {

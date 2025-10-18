@@ -1,6 +1,6 @@
 package response
 
-import "github.com/nadiannis/evento-api-fr-auth/internal/domain"
+import "github.com/nadianeyl/evento-api-fr-auth/internal/domain"
 
 type CustomerResponse struct {
 	ID       int64           `json:"id"`

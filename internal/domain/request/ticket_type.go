@@ -1,6 +1,6 @@
 package request
 
-import "github.com/nadiannis/evento-api-fr-auth/internal/domain"
+import "github.com/nadianeyl/evento-api-fr-auth/internal/domain"
 
 type TicketTypeRequest struct {
 	Name  domain.TicketTypeName `json:"name"`

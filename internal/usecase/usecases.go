@@ -1,8 +1,8 @@
 package usecase
 
 import (
-	"github.com/nadiannis/evento-api-fr-auth/internal/config"
-	"github.com/nadiannis/evento-api-fr-auth/internal/repository"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/config"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/repository"
 )
 
 type Usecases struct {

@@ -1,6 +1,6 @@
 package handler
 
-import "github.com/nadiannis/evento-api-fr-auth/internal/usecase"
+import "github.com/nadianeyl/evento-api-fr-auth/internal/usecase"
 
 type Handlers struct {
 	Customers ICustomerHandler

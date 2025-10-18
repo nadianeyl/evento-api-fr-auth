@@ -3,9 +3,9 @@ package usecase
 import (
 	"time"
 
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain"
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain/request"
-	"github.com/nadiannis/evento-api-fr-auth/internal/repository"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain/request"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/repository"
 )
 
 type OrderUsecase struct {

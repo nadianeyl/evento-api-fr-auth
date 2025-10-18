@@ -1,4 +1,4 @@
-module github.com/nadiannis/evento-api-fr-auth
+module github.com/nadianeyl/evento-api-fr-auth
 
 go 1.22.1
 

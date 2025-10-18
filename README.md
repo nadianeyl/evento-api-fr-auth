@@ -181,7 +181,7 @@ erDiagram
 - Clone the repo.
 
   ```bash
-  git clone https://github.com/nadiannis/evento.git
+  git clone https://github.com/nadianeyl/evento.git
   ```
 
   ```bash

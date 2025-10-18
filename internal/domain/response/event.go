@@ -3,7 +3,7 @@ package response
 import (
 	"time"
 
-	"github.com/nadiannis/evento-api-fr-auth/internal/domain"
+	"github.com/nadianeyl/evento-api-fr-auth/internal/domain"
 )
 
 type EventResponse struct {
